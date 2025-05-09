@@ -440,6 +440,11 @@ async function loadStudyMaterials() {
          content: "",
          image: "images/twinblock2.jpg"
          },
+        {
+         title: "essix retainer",
+         content: "",
+         image: "images/essix retainer.jpg"
+         },
 
      
   ];
