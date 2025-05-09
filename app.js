@@ -291,13 +291,13 @@ async function loadStudyMaterials() {
       },
 
      {
-      title: "Band and loop space maintainer",
+      title: "crown and loop space maintainer",
       content: "",
       image: "images/ortho_Page38_Image1.jpg"
       },
 
      {
-      title: "crown and loop space maintainer",
+      title: "band and loop space maintainer",
       content: "",
       image: "images/ortho_Page38_Image2.jpg"
       },
